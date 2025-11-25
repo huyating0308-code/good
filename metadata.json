@@ -1,0 +1,5 @@
+{
+  "name": "AlphaAgent - Daily Stock Picker",
+  "description": "An AI-powered financial agent that analyzes real-time market data to recommend three stocks daily based on your personalized investment criteria.",
+  "requestFramePermissions": []
+}
